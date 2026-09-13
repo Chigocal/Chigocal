@@ -53,4 +53,7 @@ I have hands-on experience across technical installations and hardware-software 
 - **LinkedIn:** [https://www.linkedin.com/in/chigozie-nwachukwu-b94b09400]
 - **Email:** [chigoziecaleb07@gmail.com]
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chigocal)](https://git.io/streak-stats)
+
 *"Engineering solutions from code to the clouds."*
